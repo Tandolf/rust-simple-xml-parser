@@ -1,6 +1,6 @@
-## Rust parser combinator project
+## Rust Simple Xml Parser
 
-This crate parses simple xml syntax using pure rust.
+This lib parses simple xml syntax using pure rust.
 
 Tutorial:
     https://bodil.lol/parser-combinators/
